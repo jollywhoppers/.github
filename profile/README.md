@@ -1,9 +1,5 @@
+<b><a href="https://jollywhoppers.com">Jollywhoppers</a></b> is a group making jolly stuff that's a real whopper.
 
-[![Swaggyware Banner](https://github.com/user-attachments/assets/4320af34-698f-4dc1-ba4f-1b61533d6c8d)](https://swaggy.dev)
+(like little websites, services, and such)
 
-
-<p align="left"> <!--- previously centered but image is small ---->
-  <b><a href="https://swaggy.dev">Swaggyware</a></b> is a small group making swaggy stuff in the realm of software.
-</p> <!--- Thanks to https://github.com/cptlstudio for showing @devxan how to make good GitHub organization profiles. --->
-
-We recommend following [our account](https://fosstodon.org/@swaggy) on the fediverse ≈✨ (and join the [Discord community](https://discord.gg/bNtrmCk3VZ))
+We recommend following [our account](https://bsky.app/profile/jollywhoppers.com) on Bluesky ✨
